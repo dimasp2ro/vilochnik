@@ -15,12 +15,12 @@ $(function() {
 	});
 
 	$('.s_news').parallax({
-		imageSrc: 'https://github.com/dimasp2ro/vilochnik/blob/gh-pages/img/news_bg.jpg',
+		imageSrc: 'https://raw.githubusercontent.com/dimasp2ro/vilochnik/gh-pages/img/news_bg.jpg',
 		speed: .4
 	});
 
 	$('.garanty').parallax({
-		imageSrc: 'https://github.com/dimasp2ro/vilochnik/blob/gh-pages/img/garanty_bg.jpg',
+		imageSrc: 'https://raw.githubusercontent.com/dimasp2ro/vilochnik/gh-pages/img/garanty_bg.jpg',
 		speed: .4
 	});
 
